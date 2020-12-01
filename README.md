@@ -22,4 +22,4 @@
 
 （实现了对折线图、柱状图，饼状图，中国地图二级下钻的定制，后续其它图形的学习再更新）
 
-![fullPage](https://github.com/JcDemons/ECharts_demo/images/fullPage.png)
+![fullPage](https://github.com/JcDemons/ECharts_demo/tree/master/images/fullPage.png)
